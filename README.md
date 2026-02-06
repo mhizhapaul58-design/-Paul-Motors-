@@ -17,21 +17,21 @@ A responsive car showcase website displaying iconic cars from Germany, Italy, Ja
 
  Show case brands such as BMW, Mercedes Benz, Audi, Porsche and Apollo.
 
- ### **English Cars(English.html)**
+ ### **English Cars**
 
  Showcases British automative  heritage, and elegance, including brands like Aston Martin, Bentley, and Rolls Royce
 
- ### **United States Cars(American.html)**
+ ### **United States Cars**
 
  Highlights power, muscle, innovation, and mass production.
 
  Features iconic American brands such as Ford, Chevrolet, Dodge, and Tesla.
 
- ### **Italian Cars(Italian.html)** 
+ ### **Italian Cars** 
 
  Explores passion, speed and artistic design with brands such as Ferrari, Lamborghini, and Alfa Romeo
 
- ### **Japanese Cars(Japanese.html)** 
+ ### **Japanese Cars** 
 
  Focuses on relaibility, efficiency, and innovation, highlighting brands like Toyota, Honda, Nissan, andhMazda
 
