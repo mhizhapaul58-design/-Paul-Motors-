@@ -19,7 +19,7 @@ A responsive car showcase website displaying iconic cars from Germany, Italy, Ja
 
  ### **English Cars(English.html)**
 
- Showcases British automative  heritage, craftsmanship, and elegancel, including brands like Aston Martin, Bentley, and Rolls Royce
+ Showcases British automative  heritage, and elegance, including brands like Aston Martin, Bentley, and Rolls Royce
 
  ### **United States Cars(American.html)**
 
@@ -42,6 +42,56 @@ A responsive car showcase website displaying iconic cars from Germany, Italy, Ja
  A shared navigation bar allows easy movement between pages 
 
  Each country page uses the same structure whhile allowing visual customisation through CSS
+
+ ## **Special features**
+
+ One external CSS stylsheet shared among all the pages for consistency
+
+ Flexbox layout for reponsive alignment 
+
+ Hover effects on navigation links and cards
+
+## **Technologies used**
+
+**HTML** Page structure 
+
+**CSS** layout, styling, flexbox, hover effects
+
+### **Development tools**
+
+Text editor - Visual Studio Code
+
+Browser Testing -  Gooogle Chrome/ Microsoft Edge
+
+Hosting - Github
+
+## **Instructions for viewing the site locally**
+
+Download the project folder
+
+- Ensure all files stay in the same structure
+
+- Open index.html in any browser (Chrome , Edge etc )
+
+- Alternatively go to the following links
+
+  https://github.com/
+ 
+  https://github.com/mhizhapaul58-design/-Paul-Motors-
+
+## Links to the live pages
+
+  https://github.com/
+  
+https://github.com/mhizhapaul58-design/-Paul-Motors-
+
+## **Credits and Attributions**
+
+## **Reflection**
+
+
+
+
 
 
 
